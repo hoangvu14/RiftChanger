@@ -1,4 +1,4 @@
-KADİZ WAS HACKED 
+
 <div align="center">
   <img src="./build/logo.png" alt="Bocchi Logo" width="128" height="128">
   
